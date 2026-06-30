@@ -36,17 +36,6 @@
 
 </details>
 
-## 建议置顶
-
-GitHub 的 pinned repositories 需要在网页上手动设置。我会置顶这 6 个：
-
-1. [beamer-academic](https://github.com/Faust-Donf/beamer-academic) · 212 stars
-2. [chatgpt-sidebar](https://github.com/Faust-Donf/chatgpt-sidebar) · 3 stars
-3. [chatgpt-mcp-server-template](https://github.com/Faust-Donf/chatgpt-mcp-server-template) · 0 stars
-4. [universal-pitfall-detector](https://github.com/Faust-Donf/universal-pitfall-detector) · 0 stars
-5. [vikunja-ai](https://github.com/Faust-Donf/vikunja-ai) · 0 stars
-6. [gold-factor-strategy](https://github.com/Faust-Donf/gold-factor-strategy) · 1 star
-
 ## 偏好的做法
 
 我喜欢把项目做得具体一点：README 能照着跑，脚本能直接验证，敏感信息不要写进仓库，工具最好能在真实场景里用一遍再说完成。
