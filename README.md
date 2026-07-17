@@ -1,8 +1,8 @@
 # Donf / Faust-Donf
 
-我在做一些自己真的会用的工具：AI 写作和研究辅助、Obsidian 知识库、MCP Server、个人任务系统，以及一点量化和统计分析。
+做一些自己真的会用的工具：AI 写作和研究辅助、Obsidian 知识库、MCP Server、个人任务系统，以及一点量化和统计分析。
 
-最近主要折腾这几块：
+主要折腾这几块：
 
 - Claude Code / Codex / ChatGPT / MCP / Obsidian 的组合玩法
 - 统计推断、机器学习、量化研究和可视化报告
