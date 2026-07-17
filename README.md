@@ -14,7 +14,7 @@
 
 | 项目 | Stars | 简介 | 技术栈 |
 | --- | ---: | --- | --- |
-| [beamer-academic](https://github.com/Faust-Donf/beamer-academic) | 240 | 把论文变成答辩用的 Beamer 幻灯片。目标很直接：少调格式，多花时间准备内容。 | TeX, Claude Code, Codex |
+| [beamer-academic](https://github.com/Faust-Donf/beamer-academic) | 247 | 把论文变成答辩用的 Beamer 幻灯片。目标很直接：少调格式，多花时间准备内容。 | TeX, Claude Code, Codex |
 | [chatgpt-sidebar](https://github.com/Faust-Donf/chatgpt-sidebar) | 10 | 把 Obsidian 和 ChatGPT 接起来：侧栏、vault 级 MCP、远程访问和文件读写边界都放在一个方案里。 | MCP, Obsidian, ChatGPT |
 | [chatgpt-mcp-server-template](https://github.com/Faust-Donf/chatgpt-mcp-server-template) | 0 | 一个 ChatGPT 远程 MCP Server 模板，省掉 SSE、OAuth/DCR 和隧道接入这几步重复搭建。 | TypeScript, Express, MCP |
 
